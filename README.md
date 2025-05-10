@@ -27,7 +27,7 @@ The notebook performs the following tasks:
 ## 🧰 Technologies Used
 
 - Python 3.x  
-- Jupyter Notebook  
+- Colab Notebook  
 - Libraries:
   - `pandas`, `numpy` – data manipulation  
   - `matplotlib`, `seaborn` – data visualization  
