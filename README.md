@@ -18,16 +18,13 @@ The notebook performs the following tasks:
 
 - **Model Building and Evaluation**  
   - Trains multiple classification models including:
-    - Logistic Regression  
-    - Decision Tree  
-    - K-Nearest Neighbors (KNN)  
-  - Evaluates models based on accuracy, precision, recall, and F1-score  
-  - Compares confusion matrices and ROC curves  
+    - K-mediods  
+    - Hirarical classification    
 
 ## 🧰 Technologies Used
 
 - Python 3.x  
-- Colab Notebook  
+- jupter Notebook  
 - Libraries:
   - `pandas`, `numpy` – data manipulation  
   - `matplotlib`, `seaborn` – data visualization  
